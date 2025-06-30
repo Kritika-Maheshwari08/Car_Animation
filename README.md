@@ -20,6 +20,4 @@ This is a simple project that shows a **moving Lamborghini car animation** using
 ## 📚 Purpose
 This project was created for learning and practicing basic web development and animation effects.
 
-## 🌐 Live Demo
 
-[Click here to see the live Lamborghini car animation](https://Kritika-Maheshwari08.github.io/project_1_lamborghini/)
